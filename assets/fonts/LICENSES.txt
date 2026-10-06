@@ -1,0 +1,33 @@
+Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)
+Caveat
+http://scripts.sil.org/OFL
+
+---
+
+Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)
+Caveat SemiBold
+http://scripts.sil.org/OFL
+
+---
+
+Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Inter
+https://openfontlicense.org
+
+---
+
+Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Inter Medium
+https://openfontlicense.org
+
+---
+
+Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Inter SemiBold
+https://openfontlicense.org
+
+---
+
+Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+JetBrains Mono
+https://scripts.sil.org/OFL
